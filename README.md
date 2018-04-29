@@ -10,23 +10,17 @@
 
 # Prerequisites
 
-	
-- Download and install JDK 10 in `C:\Program Files\Java\jdk-10` folder and the path in `PATH` environment variable
+- Download and install JDK 10 in `C:\Program Files\Java\jdk-10` folder and this path in `PATH` environment variable
 	
 - Download commons logging 1.2 and spring framework 5.0.5 and extract it into `c:\dev\libs folder`
 
 # Steps
-	
-	
-- Download and install JDK 10 in `C:\Program Files\Java\jdk-10 folder`
-	
-- Download commons logging 1.2 and spring framework 5.0.5 and extract it into `c:\dev\libs` folder
-	
+
 - Create `xml-beanfactory-helloworld` folder in `c:\dev\noideprojects` folder
 	
 - Create `src` and `lib` folders inside `c:\dev\noideprojects` folder
 	
-- Copy `commons-logging-1.2.jar`, `spring-core-5.0.5.RELEASE.jar`, `spring-beans-5.0.5.RELEASE.jar`, `spring-context-5.0.5.RELEASE.jar` and `spring-expression-5.0.5.RELEASE.jar` to `lib` folder
+- Copy `commons-logging-1.2.jar`, `spring-core-5.0.5.RELEASE.jar`, `spring-beans-5.0.5.RELEASE.jar`, `spring-context-5.0.5.RELEASE.jar` and `spring-expression-5.0.5.RELEASE.jar` to `lib` folder from `c:\dev\libs folder`
 	
 - Create `HelloWorld` class in `src` folder with Message property setter and `printMessage()` method
 	
