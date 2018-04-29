@@ -1,3 +1,9 @@
+# Spring Framework's BeanFactory Hello World Sample
+
+- This sample defines HelloWorld class bean in beans.xml file
+- It sets bean Message property to Hello World
+- Then creates bean instance using BeanFactory class and prints the message on screen
+
 # BeanFactory Concepts
 
 - It is an implementation of factory pattern
