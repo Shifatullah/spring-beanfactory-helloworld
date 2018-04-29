@@ -1,4 +1,4 @@
-# Concepts
+# BeanFactory Concepts
 
 - It is an implementation of factory pattern
 - It is used to get beans from IoC container
