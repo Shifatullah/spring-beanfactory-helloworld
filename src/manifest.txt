@@ -1,0 +1,4 @@
+Manifest-Version: 1.1
+Created-By: Shifatullah
+Main-Class: MainApplication
+Class-Path: lib/commons-logging-1.2.jar lib/spring-core-5.0.5.RELEASE.jar lib/spring-beans-5.0.5.RELEASE.jar
